@@ -31,11 +31,5 @@ This project analyzes airline passenger satisfaction using machine learning tech
 - **Decision Tree**: 
   - Highest Accuracy: 94.42% (at depth 11)
 
-## Installation
-To run this project, clone the repository and install the required libraries:
-
-```bash
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
-
+## Conclusion
+The analysis demonstrates that machine learning models, particularly the Decision Tree, can effectively predict airline passenger satisfaction based on various features. Understanding satisfaction factors can help airlines improve their services and enhance customer experiences.
