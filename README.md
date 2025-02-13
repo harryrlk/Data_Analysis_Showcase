@@ -1,5 +1,5 @@
 # Data_Analysis_Showcase
-This repository showcases a selection of my data analysis and visualization projects, demonstrating my proficiency in using Excel, Python, R, and Tableau to tackle various data-related challenges. The projects here reflect my hands-on experience in the areas of data cleaning, statistical analysis, data visualization, and business intelligence.
+Hi! I'm Liankai(Harry) Ren. This repository showcases a selection of my data analysis and visualization projects, demonstrating my proficiency in using Excel, Python, R, and Tableau to tackle various data-related challenges. The projects here reflect my hands-on experience in the areas of data cleaning, statistical analysis, data visualization, and business intelligence.
 
 Some of the projects included in this portfolio were conducted under Non-Disclosure Agreements (NDAs), and as such, key figures, specific numbers, and sensitive data cannot be shared. However, I have included brief overviews and general insights to provide a look at the methodologies, tools, and outcomes involved.
 
