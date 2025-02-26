@@ -19,4 +19,3 @@ This project automates the creation of **monthly reports** and **executive summa
 
 ---
 
-## 📂 Repository Structure
