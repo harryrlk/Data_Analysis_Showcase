@@ -26,8 +26,6 @@ Tools & Libraries Used:
 
 **Business Value**: Identified key drivers of passenger satisfaction, providing actionable insights for airlines to improve service quality and customer experience.
 
-[View Notebook](./Airline%20Passenger%20Satisfaction%20Analysis/Airline_Passenger_Satisfaction_Analysis.ipynb)  
-*(Add screenshots of key visualizations and model results in an `images/` folder for quick preview)*
 
 ### 2. OpportunityWW Sales Opportunity Analysis
 **Dataset**: Internal sales opportunity data ("OpportunityWW.xlsx") with 1,577 records and 14 initial columns  
@@ -45,12 +43,5 @@ Tools & Libraries Used:
 
 **Business Value**: Revealed influential factors in sales success, enabling sales teams to prioritize high-potential opportunities and improve win rates.
 
-[View Notebook](./OpportunityWW%20Dataset%20Analysis/OpportunityWW_Analysis.ipynb)  
-*(Add screenshots of EDA plots, confusion matrix, ROC curve, and feature importance in an `images/` folder)*
 
 These projects showcase practical application of Python for solving real-world business problems in customer experience and sales forecasting. Feel free to explore the notebooks for detailed code, commentary, and visualizations.
-
-Suggestions for further improvement:
-- Add interactive dashboards (e.g., using Plotly or Streamlit)
-- Experiment with additional models (Random Forest, XGBoost)
-- Deploy models via simple web apps for greater impact
