@@ -1,15 +1,18 @@
-# Data_Analysis_Showcase
-Hi! I'm Liankai(Harry) Ren. This repository showcases a selection of my data analysis and visualization projects, demonstrating my proficiency in using Excel, Python, R, and Tableau to tackle various data-related challenges. The projects here reflect my hands-on experience in the areas of data cleaning, statistical analysis, data visualization, and business intelligence.
+# Data Analysis Showcase
 
-Some of the projects included in this portfolio were conducted under Non-Disclosure Agreements (NDAs), and as such, key figures, specific numbers, and sensitive data cannot be shared. However, I have included brief overviews and general insights to provide a look at the methodologies, tools, and outcomes involved.
+Hi! I'm Liankai (Harry) Ren, a Certified Business Analysis Professional (CBAP) with a Master's degree in Data Analysis. This repository showcases a curated selection of my data analysis, visualization, and machine learning projects, highlighting my expertise in leveraging tools like Excel, Python, R, and Tableau to address real-world business challenges. These projects demonstrate my skills in data cleaning, exploratory analysis, statistical modeling, advanced visualization, and deriving actionable business insights.
 
-The repository is divided into four sections:
+Some projects were completed under Non-Disclosure Agreements (NDAs), so I've anonymized sensitive data while providing overviews of methodologies, tools, key techniques, and high-level outcomes. Feel free to explore the folders for detailed code, notebooks, and visualizations.
 
-	•	Excel: Featuring projects where I used Excel for data analysis, reporting, and automation.
-	•	Python: Highlighting my work with Python for data cleaning, analysis, and visualization using libraries like Pandas, NumPy, and Matplotlib.
-	•	R: Showcasing my work in R for statistical analysis, data manipulation, and visualization with ggplot2, dplyr, and other R packages.
-	•	Tableau: Presenting interactive dashboards and visualizations created with Tableau to drive business insights and decisions.
+The repository is organized into four main sections:
 
-This is my [resume](https://github.com/harryrlk/Data_Analysis_Showcase/blob/ee74f1f71009a8b9072421483ce708ca69725a46/Liankai%20(Harry)%20Ren.pdf) and [cover letter](https://github.com/harryrlk/Data_Analysis_Showcase/blob/d4d660c14542508678677f4675395fbd694d3d48/Liankai%20(Harry)%20Ren_CL.pdf).
+- **Excel**: Business-oriented projects using advanced Excel features like PivotTables, formulas, conditional formatting, and dashboards for reporting and automation.
+- **Python**: End-to-end workflows with Jupyter Notebooks, focusing on data manipulation (Pandas, NumPy), EDA, machine learning (scikit-learn), and visualization (Matplotlib, Seaborn).
+- **R**: Statistical and pattern analysis projects with scripts and R Markdown, emphasizing data wrangling (dplyr, tidyverse), ggplot2 visualizations, sequential mining (TraMineR), and modeling (randomForest, e1071).
+- **Tableau**: Interactive dashboards and stories for stakeholder-driven insights, emphasizing data storytelling and performance metrics.
 
-Feel free to explore each section to see how I apply these tools to solve real-world data challenges. If you’d like to discuss any of the projects in further detail, please feel free to reach out.
+My background as a CBAP-certified professional ensures that my analyses are not only technically robust but also aligned with business objectives, stakeholder needs, and strategic decision-making.
+
+I've also included my latest resume and cover letter PDFs in the root directory for easy access.
+
+Explore each section to see how I combine technical skills with business acumen. If you'd like to discuss any project, collaborate, or connect on LinkedIn, feel free to reach out!
